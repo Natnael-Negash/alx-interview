@@ -26,4 +26,4 @@ def pascal_triangle(n):
     return triangle
 
 
-print(pascal_triangle(10))
+pascal_triangle(10)
